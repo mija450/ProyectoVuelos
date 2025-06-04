@@ -1,0 +1,13 @@
+C:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin.json
+C:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64/runner/Debug/data/flutter_assets/assets/images/usuario.png
+C:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+C:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

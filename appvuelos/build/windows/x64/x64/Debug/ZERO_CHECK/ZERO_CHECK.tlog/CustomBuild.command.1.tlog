@@ -1,0 +1,10 @@
+^C:\XAMPP\HTDOCS\PROYECTOVUELOS\APPVUELOS\BUILD\WINDOWS\X64\CMAKEFILES\A7444A5709A0E29B57E5D7D2B3993C0D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/xampp/htdocs/ProyectoVuelos/appvuelos/windows -BC:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/xampp/htdocs/ProyectoVuelos/appvuelos/build/windows/x64/appvuelos.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
